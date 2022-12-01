@@ -1,0 +1,19 @@
+.homepage{
+    position: relative;
+    top: -80px;
+    z-index: -1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    font-family: Ubuntu;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    line-height: 0.7;
+    /* font-size: small; */
+}

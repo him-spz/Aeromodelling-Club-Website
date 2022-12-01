@@ -1,0 +1,30 @@
+.footer{
+    background-color: #121111;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: Ubuntu ;
+    font-weight: bolder;
+    padding: 50px 0 10px 0;
+    position: relative;
+    top: -80px;
+}
+
+.text-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.social-media img{
+    width: 20px;
+    /* color: white; */
+    filter: invert(1);
+    background-color: white;
+    margin: 10px 10px;
+}
+.developer{
+    position: relative;
+    left: 350px;
+    top: 45px;
+}

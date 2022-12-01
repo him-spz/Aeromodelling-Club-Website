@@ -6,6 +6,18 @@ import Project from './MyComponents/Project';
 import Activities from './MyComponents/Activities';
 import Team from './MyComponents/Team';
 import Footer from './MyComponents/Footer';
+import iitk from './images/iitk-logo.png';
+import aero from './images/Aero-logo.png';
+import bg from './images/club-room.jpg';
+import insta from './images/square-instagram.svg';
+import fb from './images/square-facebook.svg';
+import linkedin from './images/linkedin.svg';
+import slide1 from './images/special-menu-1.jpeg';
+import slide2 from './images/special-menu-2.jpg';
+import slide3 from './images/special-menu-3.jpg';
+
+
+
 // import { createRoot } from "react-dom/client";
 import {
   BrowserRouter as Router,
@@ -16,18 +28,20 @@ import {
 function App() {
   return (
     <>
-    <Header/>
+    <Header iitk={iitk} aero={aero}/>
+    <Homepage bg={bg}/>
+    <Glance slide1={slide1} slide2={slide2} slide3={slide3}/>
     <Router>
       <Routes>
-      <Route exact path='/' render = {()=>{
+      {/* <Route exact path='/' render = {()=>{
         return(
           <>
-          <Homepage/>
-          <Glance/>
+          
+          
           </>
         )
       }}>
-      </Route>
+      </Route> */}
       <Route exact path='/project' render = {()=>{
         return(
           <>
@@ -54,7 +68,7 @@ function App() {
       </Route>
       </Routes>
       </Router>
-    <Footer/>
+    <Footer insta={insta} fb={fb} linkedin={linkedin}/>
     </>
   );
 }

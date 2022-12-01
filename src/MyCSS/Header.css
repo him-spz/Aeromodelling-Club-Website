@@ -1,0 +1,47 @@
+.navBar{
+    background-color: transparent;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    height: 80px;
+    z-index: 69;
+}
+.navBar.active{
+    background-color: #121111;
+}
+.navBar.active img{
+    filter: invert();
+}
+/* CSS to logo  */
+.navBar img{
+    margin: 5px 10px;
+}
+.logo{
+    margin-left: 40px;
+}
+#iitk-logo{
+    width: 60px;
+    /* filter: invert(1); */
+}
+#aero-logo{
+    width: 62px;
+    /* filter: invert(1); */
+}
+
+/* CSS to menu  */
+.menu{
+    position: absolute;
+    right: 150px;
+    font-family: Ubuntu;
+    font-weight: bolder;
+}
+.menu-option{
+    display: flex;
+    color: white;
+    list-style: none;
+}
+.nav-item{
+    margin: 10px 30px;
+}
