@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd599fe1.css",
+    "main.js": "/static/js/main.218a9e07.js",
+    "static/js/787.b075e410.chunk.js": "/static/js/787.b075e410.chunk.js",
+    "static/media/special-menu-2.jpg": "/static/media/special-menu-2.6b1ff1efaafdf6035f1e.jpg",
+    "static/media/special-menu-3.jpg": "/static/media/special-menu-3.9ecbff0525da80071049.jpg",
+    "static/media/club-room.jpg": "/static/media/club-room.a39758c71945380211ac.jpg",
+    "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/iitk-logo.png": "/static/media/iitk-logo.a4825940051c97fdca25.png",
+    "static/media/special-menu-1.jpeg": "/static/media/special-menu-1.5c5f28917e7ab2b5ff4c.jpeg",
+    "static/media/special_menu_bg.jpeg": "/static/media/special_menu_bg.c7bea352009d7e0e16e0.jpeg",
+    "static/media/Aero-logo.png": "/static/media/Aero-logo.c24a62ab36e295903d96.png",
+    "static/media/square-instagram.svg": "/static/media/square-instagram.46f584f43ad2f0b5cabeb8e5d7c0fc82.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.386d46fc1dc9ea908ed8bb6235009335.svg",
+    "static/media/square-facebook.svg": "/static/media/square-facebook.bb281c7fe5085e0a931d100e72878110.svg",
+    "main.fd599fe1.css.map": "/static/css/main.fd599fe1.css.map",
+    "main.218a9e07.js.map": "/static/js/main.218a9e07.js.map",
+    "787.b075e410.chunk.js.map": "/static/js/787.b075e410.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd599fe1.css",
+    "static/js/main.218a9e07.js"
+  ]
+}

@@ -23,10 +23,10 @@ export default function Header(props) {
       </div>
       <div className="menu">
         <ul className="menu-option">
-          <li className="nav-item">Home</li>
-          <li className="nav-item">Projects</li>
-          <li className="nav-item">Activities</li>
-          <li className="nav-item">Team</li>
+          <li className="nav-item"><Link to='/' className='link'>Home</Link> </li>
+          <li className="nav-item"><Link to='/projects' className='link'>Projects</Link></li>
+          <li className="nav-item"><Link to='/activities' className='link'>Activities</Link></li>
+          <li className="nav-item"><Link to='/team' className='link'>Team</Link></li>
         </ul>
       </div>
     </nav>

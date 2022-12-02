@@ -9,7 +9,7 @@ export default function Homepage(props) {
       height: 800 
     }}>
       <div className="content">
-        <h1>WELCOME TO AEROMODELLING CLUB, IIT KANPUR</h1>
+        <h1>WELCOME TO AEROMODELLING CLUB, IITK</h1>
         <h3>DESIGN, BUILD, FLY...</h3>
         <h5>SINCE 2003</h5>
       </div>

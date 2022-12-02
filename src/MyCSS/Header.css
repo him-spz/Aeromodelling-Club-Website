@@ -3,7 +3,8 @@
     display: flex;
     /* justify-content: center; */
     align-items: center;
-    position: sticky;
+    position: fixed;
+    width: 100%;
     top: 0px;
     height: 80px;
     z-index: 69;
@@ -39,9 +40,12 @@
 }
 .menu-option{
     display: flex;
-    color: white;
     list-style: none;
 }
 .nav-item{
     margin: 10px 30px;
+}
+.link{
+    text-decoration: none;
+    color: white;
 }

@@ -1,10 +1,12 @@
 .homepage{
     position: relative;
     top: -80px;
+    margin-bottom: -80px;
     z-index: -1;
     display: flex;
     justify-content: center;
     align-items: center;
+    filter: contrast(1.2);
 }
 
 .content{
@@ -17,3 +19,13 @@
     line-height: 0.7;
     /* font-size: small; */
 }
+.content h1{
+    font-size: 60px;
+    
+}
+.content h3{
+    font-size: 30px;
+}
+ .content h1,h3,h5{
+    font-weight: bolder;
+ }

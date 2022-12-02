@@ -6,8 +6,10 @@
     font-family: Ubuntu ;
     font-weight: bolder;
     padding: 50px 0 10px 0;
-    position: relative;
-    top: -80px;
+    /* position: absolute; */
+    /* top: -80px; */
+    /* z-index: 69; */
+    /* bottom: 0; */
 }
 
 .text-center{

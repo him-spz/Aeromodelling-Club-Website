@@ -9,8 +9,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding: 80px;
-    position: relative;
-    top: -80px;
+    /* position: relative;
+    top: -80px; */
+    filter: contrast(1.2);
 }
 .glance h1{
     margin-bottom: 30px;
