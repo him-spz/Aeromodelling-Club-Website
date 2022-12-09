@@ -52,7 +52,7 @@ function App() {
           <Footer insta={insta} fb={fb} linkedin={linkedin}/>
         </Route>
         <Route path='/projects'>
-          <Project/>
+          <Project bgvideo={bgvideo}/> 
         </Route>
         <Route path='/activities'>
           <Activities aeroweek={aeroweek} techkriti={techkriti} summer={summer} takneek={takneek} bgvideo={bgvideo}/>

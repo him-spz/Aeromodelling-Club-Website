@@ -6,11 +6,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    filter: contrast(1.2);
+    filter: contrast(1.1);
+    opacity:0.899878;
+
 }
 
 .content{
-    font-family: Ubuntu;
+    font-family: ubuntu;
     font-weight: bolder;
     color: white;
     text-align: center;

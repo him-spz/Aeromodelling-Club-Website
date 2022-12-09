@@ -1,0 +1,17 @@
+.project{
+    height: 100vh;
+    /* position: relative;
+    top: -80px;
+    margin-bottom: -80px; */
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+video{
+    /* height: 100%; */
+    /* width: 100%; */
+    object-fit: cover;
+    position: fixed;
+}
+
+  
