@@ -26,7 +26,7 @@ export default function Activities(props) {
               </div>
               <div className="event-card">
                 <div className="left">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.aeroweek} alt="" />
                   <div class="image__overlay ">
                     
                   </div>
@@ -38,7 +38,7 @@ export default function Activities(props) {
               </div>
               <div className="event-card">
                 <div className="left">
-                  <img className='image__img' src={props.techkriti} alt="" />+++
+                  <img className='image__img' src={props.takneek} alt="" />+++
                   <div class="image__overlay ">
                     
                   </div>
@@ -50,7 +50,7 @@ export default function Activities(props) {
               </div>
               <div className="event-card">
                 <div className="left">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.summer} alt="" />
                   <div class="image__overlay ">
                    
                   </div>

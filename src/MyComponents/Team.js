@@ -296,8 +296,8 @@ export default function Team(props) {
                   </div>
                 </div>
                 <div className="right">
-                  <h5>Rahul</h5>
-                  <h5>Y21 ES</h5>
+                  <h5>Rahul Jha</h5>
+                  <h5>Y21 CE</h5>
                 </div>
               </div>
               <div className="secy-card">
@@ -452,6 +452,63 @@ export default function Team(props) {
               </div>
               
             </div>
+          </div>
+
+          <div className="coordies">
+            <div className="coordi-heading">
+              <h1>Ex - Coordinators 2021-22</h1>
+            </div>
+            <div className="coordi-container">
+              <div className="coordi-card">
+                <div className="left">
+                  <img className='image__img' src={props.techkriti} alt="" />
+                  <div class="image__overlay ">
+                    <div className="contact">
+                      <a href="" target="blank"><img src={props.insta} alt="" /></a>
+                      <a href="" target="blank"><img src={props.fb} alt="" /></a>
+                      <a href="mailto:moinahmd@iitk.ac.in"><img src={props.envelope} alt="" /></a>
+                    </div>
+                  </div>
+                </div>
+                <div className="right">
+                  <h4>Moin Ahmed</h4>
+                  <h4>Y19</h4>
+                </div>
+              </div>
+              <div className="coordi-card">
+                <div className="left">
+                  <img className='image__img' src={props.techkriti} alt="" />
+                  <div class="image__overlay ">
+                    <div className="contact">
+                      <a href="" target="blank"><img src={props.insta} alt="" /></a>
+                      <a href="" target="blank"><img src={props.fb} alt="" /></a>
+                      <a href="mailto:mohit@iitk.ac.in"><img src={props.envelope} alt="" /></a>
+                    </div>
+                  </div>
+                </div>
+                <div className="right">
+                  <h4>Mohit Anand</h4>
+                  <h4>Y19</h4>
+                </div>
+              </div>
+              <div className="coordi-card">
+                <div className="left">
+                  <img className='image__img' src={props.techkriti} alt="" />
+                  <div class="image__overlay ">
+                    <div className="contact">
+                      <a href="" target="blank"><img src={props.insta} alt="" /></a>
+                      <a href="" target="blank"><img src={props.fb} alt="" /></a>
+                      <a href="mailto:psinghal@iitk.ac.in"><img src={props.envelope} alt="" /></a>
+                    </div>
+                  </div>
+                </div>
+                <div className="right">
+                  <h4>Pranshu Singhal</h4>
+                  <h4>Y19</h4>
+                </div>
+              </div>
+            </div>
+            
           </div>
         </div>
       </div>

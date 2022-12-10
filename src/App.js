@@ -13,6 +13,8 @@ import bg from './images/club-room.jpg';
 import insta from './images/square-instagram.svg';
 import fb from './images/square-facebook.svg';
 import linkedin from './images/linkedin.svg';
+import discord from './images/discord.png';
+import youtube from './images/youtube.png';
 import envelope from './images/envelope-solid.svg';
 import slide1 from './images/special-menu-1.jpeg';
 import slide2 from './images/special-menu-2.jpg';
@@ -49,7 +51,7 @@ function App() {
           <Homepage bg={bg}/>
           <About/>
           <Glance slide1={slide1} slide2={slide2} slide3={slide3}/>
-          <Footer insta={insta} fb={fb} linkedin={linkedin}/>
+          <Footer insta={insta} fb={fb} linkedin={linkedin} discord={discord} youtube={youtube}/>
         </Route>
         <Route path='/projects'>
           <Project bgvideo={bgvideo}/> 
