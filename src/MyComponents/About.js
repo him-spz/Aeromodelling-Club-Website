@@ -1,9 +1,10 @@
 import React from 'react'
 import '../MyCSS/About.css'
-export default function () {
+export default function (props) {
     return (
         <>
-        <div className="about">
+        <div className="about" >
+        <video autoPlay muted loop src={props.bgvideo} />
             <div className="about-content">
             <h1>About</h1>
             <hr />

@@ -3,6 +3,8 @@
     /* position: relative;
     top: -80px;
     margin-bottom: -80px; */
+    /* height: 100%; */
+    /* min-height: 100vh; */
     display: flex;
     flex-direction: column;
     color: white;
@@ -104,6 +106,8 @@ video{
 	justify-content: center;
 	opacity: 0;
 	transition: opacity 0.25s;
+    padding: 10px;
+    text-align: center;
 }
 
 .image__overlay--blur {

@@ -18,7 +18,7 @@ export default function Header(props) {
     <>
     <nav className={navBar ? 'navBar active' : 'navBar'}>
       <div className="logo">
-        <img id='iitk-logo' src={props.iitk} alt="IITK" />
+        <img id='iitk-logo' src={props.snt} alt="IITK" />
         <img id='aero-logo' src={props.aero} alt="" />
       </div>
       <div className="menu">

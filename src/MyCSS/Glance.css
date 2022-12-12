@@ -1,14 +1,14 @@
 .glance{
-    width: 100vw;
+    /* width: 100vw; */
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     color: white;
-    background-image: url(../images/special_menu_bg.jpeg);
+    /* background-image: url(../images/special_menu_bg.jpeg); */
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 80px;
+    padding: 80px 80px 140px 80px;
     /* position: relative;
     top: -80px; */
     filter: contrast(1.2);
@@ -19,6 +19,7 @@
 .carousel .carousel-item {
     height: 500px;
     width: 700px;
+    line-height: 1;
   }
 .carousel{
     /* display: flex;
@@ -44,3 +45,16 @@
   .carousel-caption p{
     color: white;
   }
+
+  /* .carousel-control-prev-icon{ */
+    /* height: 50px; */
+  /* } */
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 70px;
+    width: 70px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}

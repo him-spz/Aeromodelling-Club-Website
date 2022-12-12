@@ -48,7 +48,7 @@ export default function Glance(props) {
             </button>
             <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
               <span className="carousel-control-next-icon" aria-hidden="true"></span>
-              <span className="visually-hidden">Next</span>
+              <span className="visually-hidden ">Next</span>
             </button>
           </div>
         </div>

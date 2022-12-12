@@ -3,7 +3,7 @@ import '../MyCSS/Homepage.css'
 export default function Homepage(props) {
   return (
     <div className='homepage' style={{ 
-      backgroundImage: `url(${props.bg})`,
+      backgroundImage: `url(${props.bg2})`,
       backgroundRepeat:"no-repeat",
       backgroundSize:"cover",
       height: 800 

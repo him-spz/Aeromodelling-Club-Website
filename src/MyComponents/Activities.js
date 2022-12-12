@@ -16,48 +16,48 @@ export default function Activities(props) {
                 <div className="left">
                   <img className='image__img' src={props.techkriti} alt="" />
                   <div class="image__overlay ">
-                    
+
                   </div>
                 </div>
                 <div className="right">
-                  <h4>techkriti</h4>
-                  
+                  <h4>Techkriti</h4>
+
                 </div>
               </div>
               <div className="event-card">
                 <div className="left">
                   <img className='image__img' src={props.aeroweek} alt="" />
                   <div class="image__overlay ">
-                    
+
                   </div>
                 </div>
                 <div className="right">
                   <h4>Aeroweek </h4>
-                  
+
                 </div>
               </div>
               <div className="event-card">
                 <div className="left">
-                  <img className='image__img' src={props.takneek} alt="" />+++
+                  <img className='image__img' src={props.takneek} alt="" />
                   <div class="image__overlay ">
-                    
+
                   </div>
                 </div>
                 <div className="right">
                   <h4>Takneek</h4>
-                  
+
                 </div>
               </div>
               <div className="event-card">
                 <div className="left">
                   <img className='image__img' src={props.summer} alt="" />
                   <div class="image__overlay ">
-                   
+
                   </div>
                 </div>
                 <div className="right">
                   <h4>Summer Project</h4>
-                  
+
                 </div>
               </div>
 
@@ -72,53 +72,53 @@ export default function Activities(props) {
                 <div className="left-achievement">
                   <img className='image__img' src={props.techkriti} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
-                    
+
                   </div>
                 </div>
                 <div className="right">
-                  <h4>techkriti</h4>
-                 
+                  <h4>Techkriti</h4>
+
                 </div>
               </div>
               <div className="achievement-card">
                 <div className="left-achievement">
                   <img className='image__img' src={props.techkriti} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
-                    
+
                   </div>
                 </div>
                 <div className="right">
                   <h4>Techfest</h4>
-                  
+
                 </div>
               </div>
               <div className="achievement-card">
                 <div className="left-achievement">
                   <img className='image__img' src={props.techkriti} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
-                    
+
                   </div>
                 </div>
                 <div className="right">
-                  <h4>projects </h4>
-                  
+                  <h4>Projects </h4>
+
                 </div>
               </div>
               <div className="achievement-card">
                 <div className="left-achievement">
                   <img className='image__img' src={props.techkriti} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
-                    
+
                   </div>
                 </div>
                 <div className="right">
                   <h4>Inter-IIT</h4>
-                  
+
                 </div>
               </div>
-              
-             
-              
+
+
+
             </div>
           </div>
         </div>
@@ -135,9 +135,8 @@ export default function Activities(props) {
 
 
 
-      
-      
 
 
-      
- 
+
+
+

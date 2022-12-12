@@ -456,7 +456,7 @@ export default function Team(props) {
 
           <div className="coordies">
             <div className="coordi-heading">
-              <h1>Ex - Coordinators 2021-22</h1>
+              <h1>Ex - Coordinators</h1>
             </div>
             <div className="coordi-container">
               <div className="coordi-card">
@@ -464,15 +464,15 @@ export default function Team(props) {
                   <img className='image__img' src={props.techkriti} alt="" />
                   <div class="image__overlay ">
                     <div className="contact">
-                      <a href="" target="blank"><img src={props.insta} alt="" /></a>
-                      <a href="" target="blank"><img src={props.fb} alt="" /></a>
+                      <a href="https://www.instagram.com/mo_in_mo_out/" target="blank"><img src={props.insta} alt="" /></a>
+                      <a href="https://www.facebook.com/profile.php?id=100037357815114" target="blank"><img src={props.fb} alt="" /></a>
                       <a href="mailto:moinahmd@iitk.ac.in"><img src={props.envelope} alt="" /></a>
                     </div>
                   </div>
                 </div>
                 <div className="right">
                   <h4>Moin Ahmed</h4>
-                  <h4>Y19</h4>
+                  <h4>Y19 EE</h4>
                 </div>
               </div>
               <div className="coordi-card">
@@ -480,15 +480,15 @@ export default function Team(props) {
                   <img className='image__img' src={props.techkriti} alt="" />
                   <div class="image__overlay ">
                     <div className="contact">
-                      <a href="" target="blank"><img src={props.insta} alt="" /></a>
-                      <a href="" target="blank"><img src={props.fb} alt="" /></a>
+                      <a href="https://www.instagram.com/mohitanand157/" target="blank"><img src={props.insta} alt="" /></a>
+                      <a href="https://www.facebook.com/profile.php?id=100039551982898" target="blank"><img src={props.fb} alt="" /></a>
                       <a href="mailto:mohit@iitk.ac.in"><img src={props.envelope} alt="" /></a>
                     </div>
                   </div>
                 </div>
                 <div className="right">
                   <h4>Mohit Anand</h4>
-                  <h4>Y19</h4>
+                  <h4>Y19 ME</h4>
                 </div>
               </div>
               <div className="coordi-card">
@@ -496,15 +496,15 @@ export default function Team(props) {
                   <img className='image__img' src={props.techkriti} alt="" />
                   <div class="image__overlay ">
                     <div className="contact">
-                      <a href="" target="blank"><img src={props.insta} alt="" /></a>
-                      <a href="" target="blank"><img src={props.fb} alt="" /></a>
+                      <a href="https://www.instagram.com/pranshu2039/" target="blank"><img src={props.insta} alt="" /></a>
+                      <a href="https://www.facebook.com/pranshu.singhal.963" target="blank"><img src={props.fb} alt="" /></a>
                       <a href="mailto:psinghal@iitk.ac.in"><img src={props.envelope} alt="" /></a>
                     </div>
                   </div>
                 </div>
                 <div className="right">
                   <h4>Pranshu Singhal</h4>
-                  <h4>Y19</h4>
+                  <h4>Y19 ME</h4>
                 </div>
               </div>
             </div>

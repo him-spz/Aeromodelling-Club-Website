@@ -8,8 +8,10 @@ import Activities from './MyComponents/Activities';
 import Team from './MyComponents/Team';
 import Footer from './MyComponents/Footer';
 import iitk from './images/iitk-logo.png';
+import snt from './images/snt.png';
 import aero from './images/Aero-logo.png';
 import bg from './images/club-room.jpg';
+import bg2 from './images/club-room-2.jpg';
 import insta from './images/square-instagram.svg';
 import fb from './images/square-facebook.svg';
 import linkedin from './images/linkedin.svg';
@@ -37,7 +39,7 @@ import {
 function App() {
   return (
     <>
-    {/* <Header iitk={iitk} aero={aero}/>
+      {/* <Header iitk={iitk} aero={aero}/>
     <Homepage bg={bg}/>
     <About/>
     <Glance slide1={slide1} slide2={slide2} slide3={slide3}/>
@@ -45,27 +47,30 @@ function App() {
     <Activities aeroweek={aeroweek} techkriti={techkriti} summer={summer} takneek={takneek} bgvideo={bgvideo}/>
     <Team bgvideo={bgvideo} techkriti={techkriti} insta={insta} fb={fb} envelope={envelope}/>
     <Footer insta={insta} fb={fb} linkedin={linkedin}/> */}
-    <Router>
-      <Header iitk={iitk} aero={aero}/>
-      <Switch>
-        <Route exact path='/'>
-          <Homepage bg={bg} bgvideo={bgvideo}/>
-          <About />
-          <Glance slide1={slide1} slide2={slide2} slide3={slide3} />
-          <Footer insta={insta} fb={fb} linkedin={linkedin} discord={discord} youtube={youtube} globe={globe}/>
-        </Route>
-        <Route path='/projects'>
-          <Project bgvideo={bgvideo}/> 
-        </Route>
-        <Route path='/activities'>
-          <Activities aeroweek={aeroweek} techkriti={techkriti} summer={summer} takneek={takneek} bgvideo={bgvideo}/>
-        </Route>
-        <Route path='/team'>
-          <Team bgvideo={bgvideo} techkriti={techkriti} insta={insta} fb={fb} envelope={envelope}/>
-        </Route>
-      </Switch>
-      {/* <Footer insta={insta} fb={fb} linkedin={linkedin}/> */}
-    </Router>
+      <Router>
+        <div>
+          <Header iitk={iitk} snt={snt} aero={aero} />
+          <Switch>
+            <Route exact path='/'>
+              <Homepage bg={bg} bg2={bg2} bgvideo={bgvideo} />
+              <About bgvideo={bgvideo} />
+              <Glance slide1={slide1} slide2={slide2} slide3={slide3} />
+            </Route>
+            <Route path='/projects'>
+              <Project bgvideo={bgvideo} techkriti={techkriti} />
+            </Route>
+            <Route path='/activities'>
+              <Activities aeroweek={aeroweek} techkriti={techkriti} summer={summer} takneek={takneek} bgvideo={bgvideo} />
+            </Route>
+            <Route path='/team'>
+              <Team bgvideo={bgvideo} techkriti={techkriti} insta={insta} fb={fb} envelope={envelope} />
+            </Route>
+          </Switch>
+          </div>
+          <Footer insta={insta} fb={fb} linkedin={linkedin} discord={discord} youtube={youtube} globe={globe} />
+        
+        {/* <Footer insta={insta} fb={fb} linkedin={linkedin}/> */}
+      </Router>
     </>
   );
 }
