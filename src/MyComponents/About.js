@@ -4,7 +4,6 @@ export default function () {
     return (
         <>
         <div className="about">
-            
             <div className="about-content">
             <h1>About</h1>
             <hr />
