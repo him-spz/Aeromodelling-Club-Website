@@ -24,12 +24,21 @@
     /* font-size: small; */
 }
 .content h1{
-    font-size: 60px;
-    
+    font-size: 60px;    
 }
 .content h3{
     font-size: 30px;
 }
  .content h1,h3,h5{
     font-weight: bolder;
+ }
+
+
+ @media(max-width : 900px){
+    /* .homepage{
+        width: 100vw;
+    } */
+    *{
+        overflow-x: hidden;
+    }
  }

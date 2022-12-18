@@ -58,3 +58,28 @@
     border-radius: 50%;
     border: 1px solid black;
 }
+
+
+@media(max-width:480px){
+  /* .glance{
+    width: 80%;
+  } */
+  .carousel{
+    width: 300px;
+  }
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 20px;
+    width: 20px;
+  }
+  
+  .carousel .carousel-item {
+    height: 300px;
+    width: 300px;
+    line-height: 1;
+    overflow-y: hidden;
+  }
+  .carousel img{
+    /* height: 300px; */
+    object-fit: cover;
+  }
+}

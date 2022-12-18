@@ -4,6 +4,7 @@
     display: flex;
     justify-content: center;
     font-family: Ubuntu ;
+    flex-direction: column;
     font-weight: bolder;
     padding: 5px 0 5px 0;
     z-index: 71;
@@ -31,6 +32,43 @@
 }
 .developer{
     position: relative;
-    left: 350px;
-    top: 45px;
+    left: 250px;
+    /* top: 45px; */
+}
+
+.footer-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 75px;
+}
+
+@media(max-width:900px){
+    .developer{
+        position: relative;
+        left: 80px;
+        /* top: 30px; */
+    }
+}
+@media(max-width:480px){
+    .developer{
+        /* position: relative;
+        left: 80px;
+        top: 30px;
+        margin-top: -30px; */
+        opacity: 0;
+    }
+    .footer-content{
+        flex-direction: column;
+        left: 10px;
+        /* height: 30px; */
+    }
+    .footer{
+        /* height: 100px; */
+        margin-bottom: -25px;
+    }
+    .footer-content h3{
+
+    }
 }

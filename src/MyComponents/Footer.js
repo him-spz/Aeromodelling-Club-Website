@@ -13,9 +13,13 @@ export default function Footer(props) {
           <a href="https://www.youtube.com/@AeromodellingClubIITK" target="blank"><img src={props.youtube} alt="" /></a>
           <a href="http://aero.sntiitk.in/" target="blank"><img src={props.globe} alt="" /></a>
         </div>
-        <h3>AEROMODELLING CLUB, IITK</h3>
+        
       </div>
-      <div className='developer'>DEVELOPED BY : XXX</div>
+      <div className="footer-content">
+        <h3>AEROMODELLING CLUB, IITK</h3>
+        <div className='developer'>DEVELOPED BY : XXX</div>
+      </div>
+      
     </div>
     
     </>

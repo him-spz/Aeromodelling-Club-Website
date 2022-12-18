@@ -165,9 +165,9 @@ export default function Team(props) {
                   <h5>Y21 CE</h5>
                 </div>
               </div>
-            </div>
+            {/* </div>
             
-            <div className="secy-container">
+            <div className="secy-container"> */}
             <div className="secy-card">
                 <div className="left-secy">
                   <img className='image__img' src={props.techkriti} alt="" />
@@ -250,8 +250,8 @@ export default function Team(props) {
                 </div>
               </div>
               
-            </div>
-            <div className="secy-container">
+            {/* </div>
+            <div className="secy-container"> */}
             <div className="secy-card">
                 <div className="left-secy">
                   <img className='image__img' src={props.techkriti} alt="" />
@@ -333,8 +333,8 @@ export default function Team(props) {
                 </div>
               </div>
               
-            </div>
-            <div className="secy-container">
+            {/* </div>
+            <div className="secy-container"> */}
             <div className="secy-card">
                 <div className="left-secy">
                   <img className='image__img' src={props.techkriti} alt="" />
@@ -416,8 +416,8 @@ export default function Team(props) {
                   </div>
                 </div>
               
-            </div>
-            <div className="secy-container">
+            {/* </div>
+            <div className="secy-container"> */}
             <div className="secy-card">
                   <div className="left-secy">
                     <img className='image__img' src={props.techkriti} alt="" />

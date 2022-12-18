@@ -45,3 +45,17 @@ hr {
     width: 910px;
     border-top: 2px solid;
 }
+
+
+@media(max-width:900px){
+    .about-content{
+        width: 75%;
+    }
+}
+@media(max-width:480px){
+    .about-content{
+        /* width: 75%; */
+        padding: 15px;
+        border-radius: 20px;
+    }
+}
