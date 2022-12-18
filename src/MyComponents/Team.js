@@ -31,7 +31,7 @@ export default function Team(props) {
               </div>
               <div className="coordi-card">
                 <div className="left">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Aditya} alt="" />
                   <div class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/adi_palmate_7/" target="blank"><img src={props.insta} alt="" /></a>
@@ -47,7 +47,7 @@ export default function Team(props) {
               </div>
               <div className="coordi-card">
                 <div className="left">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Prabuddha} alt="" />
                   <div class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/p.s.ingh02/" target="blank"><img src={props.insta} alt="" /></a>
@@ -87,7 +87,7 @@ export default function Team(props) {
             <div className="secy-container">
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Abhinaba} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/abhinaba_iitk/" target="blank"><img src={props.insta} alt="" /></a>
@@ -103,7 +103,7 @@ export default function Team(props) {
               </div>
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Aakansha} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/somber.sparkles/" target="blank"><img src={props.insta} alt="" /></a>
@@ -119,7 +119,7 @@ export default function Team(props) {
               </div>
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Alka} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/alka.1308/" target="blank"><img src={props.insta} alt="" /></a>
@@ -135,7 +135,7 @@ export default function Team(props) {
               </div>
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Ambuj} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/ambujpyne/" target="blank"><img src={props.insta} alt="" /></a>
@@ -151,7 +151,7 @@ export default function Team(props) {
               </div>
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Arpit} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/_arpit.raj_/" target="blank"><img src={props.insta} alt="" /></a>
@@ -170,7 +170,7 @@ export default function Team(props) {
             <div className="secy-container"> */}
             <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Omkar} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/omkar19_c/" target="blank"><img src={props.insta} alt="" /></a>
@@ -186,7 +186,7 @@ export default function Team(props) {
               </div>
             <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Himanshu} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/himanshoe.24/" target="blank"><img src={props.insta} alt="" /></a>
@@ -218,7 +218,7 @@ export default function Team(props) {
               </div>
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Netraj} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/netrajj/" target="blank"><img src={props.insta} alt="" /></a>
@@ -235,7 +235,7 @@ export default function Team(props) {
               
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Piyush} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/mercapt4758/" target="blank"><img src={props.insta} alt="" /></a>
@@ -270,7 +270,7 @@ export default function Team(props) {
               </div>
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Pulak} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/pulakgautam/" target="blank"><img src={props.insta} alt="" /></a>
@@ -286,7 +286,7 @@ export default function Team(props) {
               </div>
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Rahul} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/arca_ane/" target="blank"><img src={props.insta} alt="" /></a>
@@ -302,7 +302,7 @@ export default function Team(props) {
               </div>
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Rishima} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/rishimaharikumar/" target="blank"><img src={props.insta} alt="" /></a>
@@ -318,7 +318,7 @@ export default function Team(props) {
               </div>
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Ritwik} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/s.ritwikk/" target="blank"><img src={props.insta} alt="" /></a>
@@ -337,7 +337,7 @@ export default function Team(props) {
             <div className="secy-container"> */}
             <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Sarthak} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/sarthakagrwl/" target="blank"><img src={props.insta} alt="" /></a>
@@ -353,7 +353,7 @@ export default function Team(props) {
               </div>
               <div className="secy-card">
                   <div className="left-secy">
-                    <img className='image__img' src={props.techkriti} alt="" />
+                    <img className='image__img' src={props.Shrey} alt="" />
                     <div id='image__overlay__secy' class="image__overlay ">
                       <div className="contact">
                         <a href="https://www.instagram.com/shreypatel1408/" target="blank"><img src={props.insta} alt="" /></a>
@@ -369,7 +369,7 @@ export default function Team(props) {
                 </div>
               <div className="secy-card">
                   <div className="left-secy">
-                    <img className='image__img' src={props.techkriti} alt="" />
+                    <img className='image__img' src={props.Shreyash} alt="" />
                     <div id='image__overlay__secy' class="image__overlay ">
                       <div className="contact">
                         <a href="https://www.instagram.com/_._shutter.up_/" target="blank"><img src={props.insta} alt="" /></a>
@@ -385,7 +385,7 @@ export default function Team(props) {
                 </div>
               <div className="secy-card">
                   <div className="left-secy">
-                    <img className='image__img' src={props.techkriti} alt="" />
+                    <img className='image__img' src={props.Sujeet} alt="" />
                     <div id='image__overlay__secy' class="image__overlay ">
                       <div className="contact">
                         <a href="https://www.instagram.com/sujeet9437/" target="blank"><img src={props.insta} alt="" /></a>
@@ -420,7 +420,7 @@ export default function Team(props) {
             <div className="secy-container"> */}
             <div className="secy-card">
                   <div className="left-secy">
-                    <img className='image__img' src={props.techkriti} alt="" />
+                    <img className='image__img' src={props.Ujjwal} alt="" />
                     <div id='image__overlay__secy' class="image__overlay ">
                       <div className="contact">
                         <a href="https://www.instagram.com/ujjwalkumartiwary1/" target="blank"><img src={props.insta} alt="" /></a>
@@ -436,7 +436,7 @@ export default function Team(props) {
                 </div>
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Vaibhav} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/__v.shaily__/" target="blank"><img src={props.insta} alt="" /></a>
@@ -461,7 +461,7 @@ export default function Team(props) {
             <div className="coordi-container">
               <div className="coordi-card">
                 <div className="left">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Moin} alt="" />
                   <div class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/mo_in_mo_out/" target="blank"><img src={props.insta} alt="" /></a>
@@ -477,7 +477,7 @@ export default function Team(props) {
               </div>
               <div className="coordi-card">
                 <div className="left">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Mohit} alt="" />
                   <div class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/mohitanand157/" target="blank"><img src={props.insta} alt="" /></a>
@@ -493,7 +493,7 @@ export default function Team(props) {
               </div>
               <div className="coordi-card">
                 <div className="left">
-                  <img className='image__img' src={props.techkriti} alt="" />
+                  <img className='image__img' src={props.Pranshu} alt="" />
                   <div class="image__overlay ">
                     <div className="contact">
                       <a href="https://www.instagram.com/pranshu2039/" target="blank"><img src={props.insta} alt="" /></a>

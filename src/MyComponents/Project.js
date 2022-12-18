@@ -12,7 +12,7 @@ export default function Project(props) {
         </div>
         <div className="achievement-card">
           <div className="left-achievement">
-            <img className='image__img' src={props.techkriti} alt="" />
+            <img className='image__img' src={props.balsa} alt="" />
             <div id='image__overlay__secy' class="image__overlay ">
               <p>A RC plane made of balsa wood with the first time use of IC Engine.</p>
               <p>The project is made in summers 2022.</p>
